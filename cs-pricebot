@@ -1,0 +1,2 @@
+#!/bin/bash
+./willie.py -c default.cfg
